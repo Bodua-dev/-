@@ -1,0 +1,27 @@
+body{
+	font-family: "Arial";
+	background-color: #153e5c;
+}
+h1, h2, h3, h4, h5{
+	text-align: center;
+	color: #cdd4ca;
+}
+a{
+	font-size: 20px;
+	color: #cdd4ca;
+	text-decoration: none;
+	padding: 5px;
+}
+a:hover {
+	color: #f2be54;
+	background-color: white;
+	padding: 5px;
+}
+li{
+	list-style: none;
+	display: inline-block;
+}
+p{
+	color: #fff;
+}
+
